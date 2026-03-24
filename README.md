@@ -1,4 +1,4 @@
-# Johnathon-Eva
+# Johnathon Eva
 ### Front-End Web Developer · Chicago, IL
 
 [![GitHub](https://img.shields.io/badge/GitHub-Jeva11-E8356B?style=flat-square&logo=github&logoColor=white)](https://github.com/Jeva11)
