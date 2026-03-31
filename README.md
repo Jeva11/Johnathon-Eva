@@ -56,11 +56,9 @@ This profile is a mix of client work, and personal builds. If something catches 
 ---
 
 ## Stats & Activity
-<div align="center">
-![Johnathon's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Jeva11&show_icons=true&theme=dark&title_color=E8356B&icon_color=E8356B&hide_border=true&bg_color=111111&text_color=EAE3D1)
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jeva11&layout=compact&theme=dark&title_color=E8356B&hide_border=true&bg_color=111111&text_color=EAE3D1)
-  <img src="https://streak-stats.demolab.com?user=Jeva11&theme=dark&hide_border=true&background=111111&ring=E8356B&fire=E8356B&currStreakLabel=EAE3D1" />
-</div>
+![Trophy](https://github-profile-trophy.vercel.app/?username=Jeva11&theme=darkhub&no-bg=true&no-frame=true&row=1)
+![Contributions](https://github-contributor-stats.vercel.app/api?username=Jeva11&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Jeva11&theme=dark&hide_border=true&background=111111&ring=E8356B&fire=E8356B&currStreakLabel=EAE3D1)
 
 ---
 
