@@ -26,19 +26,19 @@ This profile is a mix of client work, and personal builds. If something catches 
 
 ## 📁 Featured Projects
 
-### 01 — WanderLust · Travel Website
+### 01 — [WanderLust · Travel Website](https://github.com/Jeva11/Wunderlust)
 > Full front-end revamp of a travel site: modernized visual language, rebuilt navigation, and responsive mobile implementation.
 `Web Redesign` `Responsive Design` `Mobile-First`
 
 ---
 
-### 02 — LevelUp Beats · Music Production
+### 02 — [LevelUp Beats · Music Production](https://github.com/Jeva11/LevelUpBeats)
 > Custom sales platform for an independent music producer — album catalog, purchase funnels, and an engagement game.
 `E-Commerce` `JavaScript` `UX Design`
 
 ---
 
-### 03 — Shoop Gaming · Content Hub
+### 03 — [Shoop Gaming · Content Hub](https://github.com/Jeva11/ShoopGaming)
 > Feature-rich content platform built as an alternative to YouTube. Includes recommendations, CTAs, day/night mode, a pinnable globe via open-source API, and cookie-based personalization.
 `Platform Build` `API Integration` `JavaScript`
 
