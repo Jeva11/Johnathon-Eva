@@ -76,7 +76,7 @@ This profile is a mix of client work, and personal builds. If something catches 
 | Email | [johnathoneva42@gmail.com](mailto:johnathoneva42@gmail.com) |
 | GitHub | [github.com/Jeva11](https://github.com/Jeva11) |
 | LinkedIn | [linkedin.com/in/johnathoneva](https://www.linkedin.com/in/johnathon-eva/) |
-| Portfolio | [WanderLust](https://github.com/Jeva11/Wunderlust) · [LevelUp Beats](https://github.com/Jeva11/LevelUpBeats) · [Shoop Gaming](https://github.com/Jeva11/ShoopGaming) |
+| Portfolio | [WanderLust · Travel Website](https://jeva11.github.io/Wunderlust/) · [LevelUp Beats · Music Production](https://jeva11.github.io/LevelUpBeats/) · [Shoop Gaming · Content Hub](https://jeva11.github.io/ShoopGaming/) |
 | Support | I don't have a Patreon, so just say hi! |
 
 ---
