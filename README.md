@@ -56,7 +56,7 @@ This profile is a mix of client work, and personal builds. If something catches 
 ---
 
 ## Stats & Activity
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Jeva11&theme=github-dark&bg_color=00000000&hide_border=true)
+![Metrics](./github-metrics.svg)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Jeva11&theme=dark&hide_border=true&background=111111&ring=E8356B&fire=E8356B&currStreakLabel=EAE3D1)
 
 ---
