@@ -56,8 +56,8 @@ This profile is a mix of client work, and personal builds. If something catches 
 ---
 
 ## Stats & Activity
-![Trophy](https://github-profile-trophy.vercel.app/?username=Jeva11&theme=darkhub&no-bg=true&no-frame=true&margin-w=10&row=1)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jeva11&bg_color=111111&color=EAE3D1&line=E8356B&point=E8356B&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeva11&bg_color=111111&color=EAE3D1&line=E8356B&point=E8356B&hide_border=true" width="480"/>
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=Jeva11&theme=dark&hide_border=true&background=111111&ring=E8356B&fire=E8356B&currStreakLabel=EAE3D1)
 
 ---
