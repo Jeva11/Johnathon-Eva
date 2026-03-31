@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Horizontal_RGB.png" alt="Johnathon Eva" width="600"/>
+  <img src="IdentityMark3.png" alt="Johnathon Eva" width="600"/>
 </div>
 
 ---
